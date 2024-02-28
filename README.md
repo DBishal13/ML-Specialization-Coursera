@@ -1,4 +1,4 @@
-<img width="1668" src="src\title-head.png">
+<img width="1668" src="resources\title-head.png">
 
 -------------------------------------------------------------------------------------------
 # [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?#instructors)
